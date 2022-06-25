@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibiponmisola.
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on beginners' project for now since I'm only One month old in this.
+- 💞️ I’m looking to collaborate on beginners' project for now since I'm new in this.
 - 📫 How to reach me @ibiponmisola on twitter and instagram, and ibiponmisola@gmail.com 
 
 <!---
