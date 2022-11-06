@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibiponmisola.
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning html and css.
+- 🌱 I have learnt the basics of html and css. I'm currently learning Javascript.
 - 💞️ I’m looking to collaborate on beginners' project for now since I'm new in this.
 - 📫 How to reach me @ibiponmisola on twitter and instagram, and ibiponmisola@gmail.com 
 
